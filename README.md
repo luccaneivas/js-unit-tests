@@ -1,10 +1,12 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 🧑‍🏭 JavaScript - Unit Tests
+
+Repositório com alguns exercícios de testes unitários, meu primeiro contato com *Jest*, realizados em um dos projetos no curso da Trybe.
+
+## 🔧 Tecnologias utilizadas
+
+- JavaScript, para a realização das funções.
+- Jest, utilizada para criação dos testes.
+
+Na pasta *src* está o código das funções implementadas e na pasta *tests* existe um arquivo de teste para cada função implementada.
+
+> Obs: enunciados dos exercícios foram apagados para manter confidencialidade do conteúdo da Trybe.
